@@ -1,6 +1,6 @@
 ## [Uplimit](https://uplimit.com/course/building-ai-products-with-openai) Project: Podcast Summarizer
 
-In this project, an LLM app was built to summarize a podcast episode, identifies the podcast guests and attempts to retrieve the guest's public information from wikipedia, and identifies key highlights using OpenAI ChatGPT and prompting techniques. Cloud deployment provider [Modal](https://modal.com/) was used to convert the information extraction function into a cloud on demand service, while the front-end interface was deployed on [Streamlit](https://streamlit.io/)
+In this project, an LLM app was built to summarize a podcast episode, identifies the podcast guests and attempts to retrieve the guest's public information from wikipedia, and identifies key highlights using [OpenAI ChatGPT](https://platform.openai.com/) and prompting techniques. Cloud deployment provider [Modal](https://modal.com/) was used to convert the information extraction function into a cloud on demand service, while the front-end interface was deployed on [Streamlit](https://streamlit.io/)
 
 ### The solution was developed in three parts: ###
 
