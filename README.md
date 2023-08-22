@@ -13,6 +13,6 @@ In this project, an LLM app was built to summarize a podcast episode, identifies
 Try it [here](https://uplimit-project-podcast-frontend.streamlit.app/)
 
 ## Getting started
-Open `Uplimit_Week1_Summarise_Podcast_GPT.ipynb` on Google Colab. The notebook consists of further technical details.
+Open `Uplimit_Week1_Summarise_Podcast_GPT.ipynb` on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/KwokHing/Uplimit-Project-Podcast-Frontend/blob/master/Uplimit_Week1_Summarise_Podcast_GPT.ipynb). The notebook consists of further technical details.
 
 
